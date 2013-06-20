@@ -33,13 +33,13 @@ To install django-tumblr-auth via pip::
 
 Or you can from the latest version from Github manually::
 
-    git clone git://github.com/alageek/django-tumblr-auth.git
+    git clone git@github.com:gkmngrgn/django-tumblr-auth.git
     cd django-tumblr-auth
     python setup.py install
 
 or via pip::
 
-    pip install -e git+https://github.com/alageek/django-tumblr-auth.git
+    pip install -e git+https://github.com/gkmngrgn/django-tumblr-auth.git
 
 Once you have the app installed you must include in your settings::
 
@@ -70,4 +70,4 @@ Questions or Issues?
 -------------------------------
 
 If you have questions, issues or requests for improvements please let me know on
-`Github <https://github.com/mlavin/django-tumblr-auth/issues>`_.
+`Github <https://github.com/gkmngrgn/django-tumblr-auth/issues>`_.
